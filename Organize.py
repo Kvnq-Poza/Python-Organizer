@@ -2,7 +2,7 @@ import os
 import shutil
 
 #The path of the directory to be sorted
-path = 'C:\\users\\kvnq Poza\\downloads'
+path = 'C:\\users\\username\\downloads'
 #This populates a list with the file names in the directory
 list_ = os.listdir(path)
 
